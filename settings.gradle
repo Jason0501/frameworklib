@@ -1,0 +1,3 @@
+include ':jasontest'
+include ':app'
+rootProject.name = "frameworklib"
